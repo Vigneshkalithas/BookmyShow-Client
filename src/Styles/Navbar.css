@@ -1,0 +1,8 @@
+.titleMy {
+    background-color: red;
+    border-radius: 3px;
+    -ms-transform: rotate(6deg);
+    -webkit-transform: rotate(6deg);
+    transform: rotate(6deg);
+
+}
